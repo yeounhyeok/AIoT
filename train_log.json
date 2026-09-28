@@ -1,0 +1,23 @@
+[
+  {
+    "model": "ResNet18",
+    "params": 11172810,
+    "accuracy": 99.22,
+    "train_time_sec": 53.9,
+    "epochs": 5
+  },
+  {
+    "model": "DenseNet121",
+    "params": 6955274,
+    "accuracy": 99.37,
+    "train_time_sec": 190.5,
+    "epochs": 5
+  },
+  {
+    "model": "EfficientNetB0",
+    "params": 4019782,
+    "accuracy": 97.72,
+    "train_time_sec": 111.7,
+    "epochs": 5
+  }
+]

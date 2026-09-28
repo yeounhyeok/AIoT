@@ -1,0 +1,6 @@
+Model,Accuracy,Latency,Source,Pareto
+TinyMLP,92.54,0.07604995858855546,Measured,True
+EfficientCNN,96.8,0.42,Demo,True
+SmallCNN,97.8,0.62,Demo,True
+MediumCNN,97.2,0.95,Demo,False
+LargeCNN,99.0,1.65,Demo,True

@@ -1,0 +1,5 @@
+Model,Accuracy,Latency,LatencyStd,Params,Source,Pareto
+TinyMLP,92.54,0.4553,0.041,25450,Measured,True
+EfficientNetB0,97.73,32.2864,0.3465,4019782,Measured,False
+ResNet18,99.22,11.0126,0.2861,11172810,Measured,True
+DenseNet121,99.37,61.72,0.9293,6955274,Measured,True

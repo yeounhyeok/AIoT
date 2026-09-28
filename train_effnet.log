@@ -1,0 +1,16 @@
+Device: cuda
+GPU   : NVIDIA GeForce RTX 3090
+
+============================================================
+EfficientNetB0  (params: 4,019,782)
+============================================================
+Epoch 1/5 | Loss = 1.2562 |    21.9s
+Epoch 2/5 | Loss = 0.2528 |    45.1s
+Epoch 3/5 | Loss = 0.1431 |    67.1s
+Epoch 4/5 | Loss = 0.0904 |    88.6s
+Epoch 5/5 | Loss = 0.1020 |   111.7s
+Test Accuracy: 97.72%
+Train time   : 111.7s
+Saved        : weights/EfficientNetB0.pth
+
+Saved: train_log_effnet.json

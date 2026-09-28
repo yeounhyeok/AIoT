@@ -1,0 +1,9 @@
+[
+  {
+    "model": "EfficientNetB0",
+    "params": 4019782,
+    "accuracy": 97.72,
+    "train_time_sec": 111.7,
+    "epochs": 5
+  }
+]
